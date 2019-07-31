@@ -39,10 +39,10 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 6144,
-  "guid": "1702867e-6039-4601-8b25-5ff5ab6c6677",
+  "guid": "e764db81-2299-4460-9dbf-a52e20525ded",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\Kaden\\Documents\\Curse\\Minecraft\\Instances\\Teejcraft Pack\\",
-  "name": "Teejcraft Pack",
+  "installPath": "C:\\Users\\Kaden\\Documents\\Curse\\Minecraft\\Instances\\Teejcraft Pack\\TeejcraftPack\\",
+  "name": "TeejcraftPack",
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
@@ -66,7 +66,7 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2019-07-31T01:50:53.3166711Z",
+  "installDate": "2019-07-31T01:58:28.6338174Z",
   "installedAddons": [],
   "isMigrated": false,
   "preferenceUploadProfile": false

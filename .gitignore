@@ -4,3 +4,25 @@ mods/
 saves/
 
 minecraftinstance\.json
+
+crash-reports/
+
+crafttweaker\.log
+
+logs/
+
+journeymap/
+
+local/
+
+config/jei/
+
+config/betterfps\.json
+
+config/InvTweaks/
+
+options\.txt
+
+usercache\.json
+
+usernamecache\.json
